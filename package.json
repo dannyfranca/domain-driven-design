@@ -1,0 +1,9 @@
+{
+  "name": "domain-driven-design",
+  "version": "0.0.1",
+  "description": "Framework with base definitions and helpers to work with Domain Driven Design",
+  "main": "dist/index.js",
+  "repository": "https://github.com/dannyfranca/domain-driven-design",
+  "author": "Danny França <me@dannyfranca.com>",
+  "license": "MIT"
+}
